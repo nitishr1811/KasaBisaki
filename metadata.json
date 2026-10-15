@@ -1,0 +1,10 @@
+{
+  "name": "EcoLens",
+  "description": "Waste-to-Value Circular Exchange & Smart Segregation Assistant — Live Scrap Rates, Upcycling Studio & Bengaluru Disposal Centres.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
